@@ -1,7 +1,10 @@
 <h1 align='center'>
   Hi there 👋 I'm Marsel 👨‍💻
 </h1>
-<h3>My</h3>
+<h3>How to reach me?</h3>
+<div>
+  
+</div>
 <h3>Things I code with:</h3>
 <div style="display: flex;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
