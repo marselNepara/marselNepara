@@ -15,5 +15,5 @@
 <div style="display: flex; align-items: center; justify-content:center;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
   <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
-  <img alt="Unity" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40" style="border:none;">
+  <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png">
 </div>
