@@ -15,10 +15,10 @@
   <a href="https://simple.wikipedia.org/wiki/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
     <img alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40">
   </a>
-  <a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://en.wikipedia.org/wiki/React" target="_blank" rel="noopener noreferrer nofollow">
     <img alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://en.wikipedia.org/wiki/TailwindCSS" target="_blank" rel="noopener noreferrer nofollow">
     <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40">
   </a>
 </div>
