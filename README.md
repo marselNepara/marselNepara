@@ -2,8 +2,10 @@
 
 
 ## How to reach me?
-[Telegram](https://t.me/marsel_ppub) | [Vk](https://vk.com/marsel_ppub)
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="200" />
+<div>
+  [Telegram](https://t.me/marsel_ppub) | [Vk](https://vk.com/marsel_ppub)
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="200" />
+</div>
 
 ## Things I code with:
 <div style="display: flex;">
