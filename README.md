@@ -3,7 +3,7 @@
 </h1>
 <h3>Things I code with:</h3>
 <div style="display: flex;">
-  <a style="text-decoration: none;" href="https://ru.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noopener noreferrer nofollow">
+  <a style="text-decoration: none;" href="https://ru.wikipedia.org/wiki/C_Sharp" rel="noopener noreferrer nofollow">
     <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40">
   </a>
   <a style="text-decoration: none;" href="https://ru.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer nofollow">
