@@ -10,21 +10,6 @@
     <a href="https://vk.com/marsel_ppub">Vk</a>
   </div>
 </div>
-<details>
-  <summary>📃 Resume</summary>
-
-
-## Education
-
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-
-
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-</details>
 <h2 align='center'>Things I code with:</h2>
 <div align='center' style="display: flex;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
@@ -43,17 +28,19 @@
   <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
   <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
 </div>
+
+
 <details>
   <summary>📃 Resume</summary>
 ## Education
 
 
-- 📖 ** Information Systems and Programming. Qualification: Programmer**\
+- 📖 **Information Systems and Programming. Qualification: Programmer**\
 📆 2022 - moment\
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
 
 
-- 📖 ** Information Systems and Programming. Qualification: Programmer**\
+- 📖 **Information Systems and Programming. Qualification: Programmer**\
 📆 2022 - moment\
 📍 **Information Systems and Programming. Qualification: Web and Multimedia Applications Developer** - Kazan, Russia
 </details>
