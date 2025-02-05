@@ -2,13 +2,13 @@
 
 
 ## How to reach me?
-<div style="display: flex;">
-  <div style="display: flex;">
+<div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <a href="https://t.me/marsel_ppub">Telegram</a>
-    <a>|</a>
+    <span>|</span>
     <a href="https://vk.com/marsel_ppub">Vk</a>
   </div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="200" style="margin-left: 10px;" />
 </div>
 
 ## Things I code with:
