@@ -1,6 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Marsel 👨‍💻
 </h1>
+![Life Balance GIF](https://raw.githubusercontent.com/sciencepal/sciencepal/refs/heads/master/assets/life_balance.gif)
 <h1>How to reach me?</h1>
 <div style="display: flex;">
   <a target="_blank"  href="https://t.me/marsel_ppub">Telegram</a>
