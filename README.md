@@ -10,7 +10,21 @@
     <a href="https://vk.com/marsel_ppub">Vk</a>
   </div>
 </div>
+<details>
+  <summary>📃 Resume</summary>
 
+
+## Education
+
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+
+
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+</details>
 <h2 align='center'>Things I code with:</h2>
 <div align='center' style="display: flex;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
