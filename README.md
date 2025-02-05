@@ -41,4 +41,9 @@
 - 📖 **Information Systems and Programming. Qualification: Web and Multimedia Applications Developer**\
 📆 2022 - moment\
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
+
+## Courses
+- 📖 **Programming in C#**\
+📆 2021
+📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
 </details>
