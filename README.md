@@ -2,7 +2,7 @@
   Hi there 👋 I'm Marsel 👨‍💻
 </h1>
 <h1>How to reach me?</h1>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;" align='center'>
   <a href="">Telegram</a>
   <a>|</a>
   <a href="">Vk</a>
