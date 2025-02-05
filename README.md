@@ -1,4 +1,4 @@
-<img align='center' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="300"/>
+<p align='center'><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="300"/></p>
 <h1 align='center'>Hi there 👋 I'm Marsel 👨‍💻</h1>
 
 
