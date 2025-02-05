@@ -1,9 +1,11 @@
 <h1 align='center'>
   Hi there 👋 I'm Marsel 👨‍💻
 </h1>
-<h1 style="font-size: 10px;">How to reach me?</h1>
+<h1>How to reach me?</h1>
 <div>
   <a href="">Telegram</a>
+  <p style="font-size: 24px;">|</p>
+  <a href="">Vk</a>
 </div>
 <h1>Things I code with:</h1>
 <div style="display: flex;">
