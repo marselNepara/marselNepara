@@ -9,4 +9,5 @@
   <img alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" style="border:none;">
   <img alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" style="border:none;">
   <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" style="border:none;">
+  <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
 </div>
