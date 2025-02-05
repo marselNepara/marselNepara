@@ -29,3 +29,14 @@
   <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
   <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
 </div>
+
+<details>
+  <summary>📃 Resume</summary>
+## Education
+- 📖 ** Information Systems and Programming. Qualification: Programmer**\
+📆 2022 - moment\
+📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
+- 📖 ** Information Systems and Programming. Qualification: Programmer**\
+📆 2022 - moment\
+📍 **Information Systems and Programming. Qualification: Web and Multimedia Applications Developer** - Kazan, Russia
+</details>
