@@ -2,8 +2,12 @@
 
 
 ## How to reach me?
-<div>
-  [Telegram](https://t.me/marsel_ppub) | [Vk](https://vk.com/marsel_ppub)
+<div style="display: flex;">
+  <div style="display: flex;">
+    <a href="https://t.me/marsel_ppub">Telegram</a>
+    <a>|</a>
+    <a href="[https://t.me/marsel_ppub](https://vk.com/marsel_ppub)">Vk</a>
+  </div>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="200" />
 </div>
 
