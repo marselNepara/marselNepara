@@ -1,7 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Marsel 👨‍💻
 </h1>
-<h1 style="font-size: 24px;">How to reach me?</h1>
+<h1 style="font-size: 10px;">How to reach me?</h1>
 <div>
   <a href="">Telegram</a>
 </div>
