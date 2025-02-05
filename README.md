@@ -5,16 +5,8 @@
 <div style="display: flex;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
   <img alt="Html" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40" style="border:none;">
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noopener noreferrer nofollow">
-    <img alt="Css" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40" style="border:none;">
-  </a>
-  <a href="https://simple.wikipedia.org/wiki/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
-    <img alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" style="border:none;">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank" rel="noopener noreferrer nofollow">
-    <img alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" style="border:none;">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank" rel="noopener noreferrer nofollow">
-    <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" style="border:none;">
-  </a>
+  <img alt="Css" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40" style="border:none;">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" style="border:none;">
+  <img alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" style="border:none;">
+  <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" style="border:none;">
 </div>
