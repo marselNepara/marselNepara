@@ -36,6 +36,7 @@
 - 📖 **Information Systems and Programming. Qualification: Programmer**\
 📆 2022 - moment\
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
+<br>
 - 📖 **Information Systems and Programming. Qualification: Programmer**\
 📆 2022 - moment\
 📍 **Information Systems and Programming. Qualification: Web and Multimedia Applications Developer** - Kazan, Russia
