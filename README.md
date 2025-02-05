@@ -1,8 +1,8 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="300"/>
-<h2>Hi there 👋 I'm Marsel 👨‍💻</h2>
+<img align='center' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0cWs5Zmd6bzZ5Z2x6djkzbTJmaGJlMDlra3IxdHNwNTF1ZzY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="300"/>
+<h1 align='center'>Hi there 👋 I'm Marsel 👨‍💻</h1>
 
 
-## How to reach me?
+<h2>How to reach me?</h2>
 <div style="display: flex; align-items: center;">
   <div style="display: flex; align-items: center;">
     <a href="https://t.me/marsel_ppub">Telegram</a>
@@ -11,7 +11,7 @@
   </div>
 </div>
 
-## Things I code with:
+<h2>Things I code with:</h2>
 <div style="display: flex;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
   <img alt="Html" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40" style="border:none;">
@@ -22,7 +22,7 @@
   <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
 </div>
 
-## Things I learning:
+<h2>Things I learning:</h2>
 <div style="display: flex; align-items: center; justify-content:center;">
   <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
   <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
