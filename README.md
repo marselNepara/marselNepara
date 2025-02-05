@@ -29,10 +29,10 @@
   <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
 </div>
 
-
 <details>
   <summary>📃 Resume</summary>
-##Education
+
+## Education
 - 📖 **Information Systems and Programming. Qualification: Programmer**\
 📆 2022 - moment\
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
