@@ -1,8 +1,3 @@
-<style>
-  .icon-things-i-code{
-    width: 40px;
-  }
-</style>
 <h1 align='center'>
   Hi there 👋 I'm Marsel 👨‍💻
 </h1>
@@ -16,3 +11,8 @@
   <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank" rel="noopener noreferrer nofollow"><img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" class="icon-things-i-code"></a>
 </div>
 
+<style>
+  .icon-things-i-code{
+    width: 40px;
+  }
+</style>
