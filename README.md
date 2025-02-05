@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Marsel 👨‍💻
 
-![Life Balance GIF](https://raw.githubusercontent.com/sciencepal/sciencepal/refs/heads/master/assets/life_balance.gif)
+<img src="https://raw.githubusercontent.com/sciencepal/sciencepal/refs/heads/master/assets/life_balance.gif" width="200" />
 
 ## How to reach me?
 [Telegram](https://t.me/marsel_ppub) | [Vk](https://vk.com/marsel_ppub)
