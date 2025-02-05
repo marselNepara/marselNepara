@@ -3,9 +3,9 @@
 </h1>
 <h1>How to reach me?</h1>
 <div style="display: flex;">
-  <a href="">Telegram</a>
+  <a target="_blank"  href="https://t.me/marsel_ppub">Telegram</a>
   <a>|</a>
-  <a href="">Vk</a>
+  <a target="_blank"  href="https://vk.com/marsel_ppub">Vk</a>
 </div>
 <h1>Things I code with:</h1>
 <div style="display: flex;">
