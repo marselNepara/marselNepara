@@ -47,6 +47,8 @@
 📆 2021
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
 
+</details>
+<details>
   <summary>📃 About Development</summary>
 ## Things I code with
 <div>
@@ -58,5 +60,4 @@
     <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" style="border:none;">
     <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
 </div>
-
 </details>
