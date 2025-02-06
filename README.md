@@ -10,13 +10,6 @@
     <a href="https://vk.com/marsel_ppub">Vk</a>
   </div>
 </div>
-<h2 align='center'>Things I learning:</h2>
-<div align='center' style="display: flex; align-items: center; justify-content:center;">
-  <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
-  <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
-  <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
-  <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
-</div>
 
 <details>
   <summary>📃 Resume</summary>
@@ -49,5 +42,13 @@
     <img alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" style="border:none;">
     <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" style="border:none;">
     <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
+</div>
+  
+##  Things I learning:
+<div>
+    <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
+    <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
+    <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
+    <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
 </div>
 </details>
