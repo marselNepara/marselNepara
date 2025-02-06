@@ -46,4 +46,17 @@
 - 📖 **Programming in C#**\
 📆 2021
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
+
+  <summary>📃 About Development</summary>
+## Things I code with
+<div>
+    <img alt="CSharp" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40" style="border:none;">
+    <img alt="Html" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40" style="border:none;">
+    <img alt="Css" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40" style="border:none;">
+    <img alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" style="border:none;">
+    <img alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" style="border:none;">
+    <img alt="TailwindCss" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" style="border:none;">
+    <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
+</div>
+
 </details>
