@@ -52,3 +52,6 @@
     <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
 </div>
 </details>
+<details>
+  <summary>📃 My Projects</summary>
+</details>
