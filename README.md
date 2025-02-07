@@ -53,5 +53,6 @@
 </div>
 </details>
 <details>
-  <summary>📃 My Projects</summary>
+  <summary>👨‍💻 My Projects</summary>
+  |C#|C++|
 </details>
