@@ -54,5 +54,16 @@
 </details>
 <details>
   <summary>👨‍💻 My Projects</summary>
-  |C#|C++|
+
+| C# | Description |
+| -- | ----------- |
+
+
+| React | Description |
+| ----- | ----------- |
+
+
+| Php | Description |
+| ----- | ----------- |
 </details>
+
