@@ -63,7 +63,7 @@
 | ----- | ----------- |
 
 
-| Php | Description |
+| Laravel | Description |
 | ----- | ----------- |
 </details>
 
