@@ -12,7 +12,7 @@
 </div>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📄 Resume</summary>
 
 ## Education
 - 📖 **Information Systems and Programming. Qualification: Programmer**\
@@ -31,7 +31,7 @@
 
 </details>
 <details>
-  <summary>📃 About Development</summary>
+  <summary>⚙️ About Development</summary>
   
 ##  Things I code with
 <div>
@@ -50,6 +50,12 @@
     <img alt="Php" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="40" style="border:none;">
     <img alt="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="40" style="border:none;">
     <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
+</div>
+</details>
+<details>
+  <summary>📊 My Stats</summary>
+<div>
+    
 </div>
 </details>
 <details>
