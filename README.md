@@ -66,7 +66,7 @@
 ## Laravel
 | Name | Description | Status |
 | ----- | ----------- | ----------- |
-| <a href="https://github.com/MarselTarrasque/ToDoList">To Do List</a> | A simple task list management app that helps you manage your tasks easily. | In progress... |
+| <a href="https://github.com/MarselTarrasque/ToDoList">To Do List</a> | A simple task list management app that helps you manage your tasks easily. | In progress |
 
 </details>
 
