@@ -61,14 +61,6 @@
 <details>
   <summary>👨‍💻 My Projects</summary>
 
-## C#
-| Name | Description | Status |
-| ----- | ----------- | ----------- |
-
-## React
-| Name | Description | Status |
-| ----- | ----------- | ----------- |
-
 ## Laravel
 | Name | Description | Status |
 | ----- | ----------- | ----------- |
