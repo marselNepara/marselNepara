@@ -26,7 +26,7 @@
 
 ## Courses
 - 📖 **Programming in C#**\
-📆 2021
+📆 2021\
 📍 **International Competence Center, Kazan Technical College of Information Technologies and Communication** - Kazan, Russia
 
 </details>
