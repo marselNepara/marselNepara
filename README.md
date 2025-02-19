@@ -53,12 +53,6 @@
 </div>
 </details>
 <details>
-  <summary>📊 My Stats</summary>
-<div>
-    
-</div>
-</details>
-<details>
   <summary>👨‍💻 My Projects</summary>
 
 ## Laravel
