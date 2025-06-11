@@ -51,7 +51,7 @@
     <img alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" style="border:none;">
 </div>
 </details>
-<details>
+<!-- <details>
   <summary>👨‍💻 My Projects</summary>
 
 ## Laravel
@@ -59,5 +59,5 @@
 | ----- | ----------- | ----------- |
 | <a href="https://github.com/MarselTarrasque/ToDoList">To Do List</a> | A simple task list management app that helps you manage your tasks easily. | In progress |
 
-</details>
+</details> -->
 
