@@ -5,9 +5,9 @@
 <h2 align='center'>How to reach me?</h2>
 <div align='center' style="display: flex;">
   <div align='center' style="display: flex">
+    <span>|</span>
     <a href="https://t.me/marsel_nepara">Telegram</a>
     <span>|</span>
-    <a href="https://vk.com/marsel_nepara">Vk</a>
   </div>
 </div>
 
