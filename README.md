@@ -45,7 +45,7 @@ C#, .NET, ASP.NET Core Web API, PHP
 PostgreSQL, SSMS, Git, Docker, VDS deployment
 
 ### Other Tools & Concepts  
-RESTful APIs, Message Bus, Microservices Architecture, Kanban, SMTP (email automation)
+RESTful APIs, Message Bus, Microservices Architecture, Kanban, SMTP (email automation), Figma, Photoshop
 </details>
 
 <details>
