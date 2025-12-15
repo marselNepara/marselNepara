@@ -36,7 +36,7 @@
 ## Tech Stack
 
 ### Frontend  
-React, Blazor, HTML, CSS, Tailwind CSS, JavaScript, TypeScript
+React, Blazor, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Avalonia, WPF
 
 ### Backend  
 C#, .NET, ASP.NET Core Web API, PHP
