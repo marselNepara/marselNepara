@@ -39,7 +39,7 @@
 React, Blazor, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Avalonia, WPF
 
 ### Backend  
-C#, .NET, ASP.NET Core Web API, PHP
+C#, .NET, ASP.NET Core Web API, PHP, Laravel
 
 ### Databases & Infrastructure  
 PostgreSQL, SSMS, Git, Docker, VDS deployment
