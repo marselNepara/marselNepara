@@ -50,9 +50,6 @@ RESTful APIs, Message Bus, Microservices Architecture, Kanban, SMTP (email autom
 
 <details>
   <summary>📊 Stats</summary>
-  
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselNepara&layout=compact&theme=radical)
 ### WakaTime Stats
 [![wakatime](https://wakatime.com/badge/user/90625946-aeae-4c6b-988d-db46fa05f49e.svg)](https://wakatime.com/@90625946-aeae-4c6b-988d-db46fa05f49e)
 </details>
