@@ -47,9 +47,3 @@ PostgreSQL, SSMS, Git, Docker, VDS deployment
 ### Other Tools & Concepts  
 RESTful APIs, Message Bus, Microservices Architecture, Kanban, SMTP (email automation), Figma, Photoshop
 </details>
-
-<details>
-  <summary>📊 Stats</summary>
-### WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/90625946-aeae-4c6b-988d-db46fa05f49e.svg)](https://wakatime.com/@90625946-aeae-4c6b-988d-db46fa05f49e)
-</details>
